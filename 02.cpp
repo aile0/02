@@ -6,10 +6,11 @@
 #include<mpirxx.h>
 #include<boost/winapi/thread_pool.hpp>
 
-//int main()
-//{
-//	std::cout << "hello,world!" << std::endl;
-//}
+int main()
+{
+	std::cout << "main change" << std::endl;
+	std::cout << "hello,world!" << std::endl;
+}
 
 //int main()
 //{
