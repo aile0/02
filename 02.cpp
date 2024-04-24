@@ -7,12 +7,6 @@
 
 int main()
 {
-	std::cout << "main change" << std::endl;
-	std::cout << "hello,world!" << std::endl;
-}
-
-int main()
-{
     std::cout << "输入一个0-100的数字：" << std::endl;
     int temp;
     std::cin >> temp;
